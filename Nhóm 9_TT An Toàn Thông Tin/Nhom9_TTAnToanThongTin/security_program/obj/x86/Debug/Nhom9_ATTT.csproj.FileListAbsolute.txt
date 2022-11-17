@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\bin\Debug\security_program.exe
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\bin\Debug\security_program.pdb
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\Nhom9_ATTT.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\security_program.Form1.resources
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\security_program.Properties.Resources.resources
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\Nhom9_ATTT.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\Nhom9_ATTT.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\security_program.exe
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\security_program.pdb
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\bin\Debug\BigInteger.dll
+C:\Users\admin\source\repos\Nhóm 9_TT An Toàn Thông Tin\Nhom9_TTAnToanThongTin\security_program\obj\x86\Debug\Nhom9_ATTT.csproj.CopyComplete
